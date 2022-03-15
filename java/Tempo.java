@@ -1,0 +1,3 @@
+class Tempo{
+	double hora;
+}
